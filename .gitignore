@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+.vercel
+
+# Environment variables
+.env
+.env.local
+.env*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (optional - uncomment if you don't want to commit CSV files)
+# *.csv
+
+# Model files (optional - uncomment if models are too large)
+# *.keras
+# *.h5
+# *.pkl
+
+# Outputs (optional - uncomment if outputs are too large)
+# outputs/
+
+# Cache
+.cache/
+*.cache
+
